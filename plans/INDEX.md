@@ -16,7 +16,7 @@ Authoritative lifecycle table for the workstream. If `CURRENT.md` and a session 
 | S002 | Anti-pattern catalog + refactor playbook | done | GO | catalog 10 entries (3/2/3/2 sev), playbook 8 recipes with Before/After; lint passed |
 | S003 | SKILL.md + remaining reference files | done | GO | SKILL.md + analise + template + guidelines authored; lint passed; skill structurally complete |
 | S004 | Execute `/refactor-arch` on code-smells-project | done | PASS | 9 findings (3/2/2/2); refactor to MVC; 19/19 endpoints; 0 regressions; SQL-injection fix verified |
-| S005 | Execute `/refactor-arch` on ecommerce-api-legacy | authorable | — | S004 closed PASS; ready to be authored next |
+| S005 | Execute `/refactor-arch` on ecommerce-api-legacy | authored | — | session file `plans/P001-S005-exec-projeto-2.md`; first cross-stack execution; not yet started |
 | S006 | Execute `/refactor-arch` on task-manager-api | not authored | — | depends on S005 PASS |
 | S007 | Final README.md (Análise Manual / Construção / Resultados / Como Executar) | not authored | — | depends on S006 PASS |
 | S008 | Acceptance checklist + push + delivery wrap | not authored | — | depends on S007 PASS |
