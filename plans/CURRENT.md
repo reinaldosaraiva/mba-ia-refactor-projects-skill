@@ -1,17 +1,17 @@
 # CURRENT
 
 **Active master plan:** `plans/P001-skill-refactor-arch.md`
-**Active session:** none — S002 closed GO, S003 is authorable but not authored yet
-**Status:** between sessions
+**Active session:** `plans/P001-S003-skill-md-e-refs.md`
+**Status:** authored, ready to execute
 **Lock:** none
 
 ## Resume instructions
 
-1. Read `plans/P001-skill-refactor-arch.md` to load workstream context.
-2. Read `plans/P001-design-contract.md` to load invariants.
-3. Read `plans/P001-S002-results.md` and the two skill reference files under `code-smells-project/.claude/skills/refactor-arch/` to inherit the knowledge base.
-4. Author `plans/P001-S003-skill-md-e-refs.md` per the cascading-authorship rule, then execute it.
-5. Do not skip ahead to S004+; those remain not-authored until S003 closes GO.
+1. Read `plans/P001-skill-refactor-arch.md` for workstream context.
+2. Read `plans/P001-design-contract.md` — focus on I-1, I-4, I-5, I-7.
+3. Read `code-smells-project/.claude/skills/refactor-arch/catalog-antipatterns.md` and `playbook-refactor.md` — S003 will cross-reference them.
+4. Read `plans/P001-S003-skill-md-e-refs.md` and execute its task list.
+5. Do not read S004+ — they remain not-authored.
 
 ## Workspace root
 

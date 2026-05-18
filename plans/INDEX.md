@@ -14,7 +14,7 @@ Authoritative lifecycle table for the workstream. If `CURRENT.md` and a session 
 |----|-------|--------|---------|-------|
 | S001 | Manual analysis of 3 legacy projects | done | GO | findings dossier in `plans/P001-S001-findings.md`; 31 findings, all 3 projects meet minimums |
 | S002 | Anti-pattern catalog + refactor playbook | done | GO | catalog 10 entries (3/2/3/2 sev), playbook 8 recipes with Before/After; lint passed |
-| S003 | SKILL.md + remaining reference files | authorable | — | S002 closed GO; ready to be authored next |
+| S003 | SKILL.md + remaining reference files | authored | — | session file `plans/P001-S003-skill-md-e-refs.md`; not yet executed |
 | S004 | Execute `/refactor-arch` on code-smells-project | not authored | — | depends on S003 GO |
 | S005 | Execute `/refactor-arch` on ecommerce-api-legacy | not authored | — | depends on S004 PASS |
 | S006 | Execute `/refactor-arch` on task-manager-api | not authored | — | depends on S005 PASS |
