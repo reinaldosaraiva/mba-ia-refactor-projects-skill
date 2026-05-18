@@ -1,17 +1,17 @@
 # CURRENT
 
 **Active master plan:** `plans/P001-skill-refactor-arch.md`
-**Active session:** `plans/P001-S003-skill-md-e-refs.md`
-**Status:** authored, ready to execute
+**Active session:** none — S003 closed GO, S004 is authorable but not authored yet
+**Status:** between sessions
 **Lock:** none
 
 ## Resume instructions
 
 1. Read `plans/P001-skill-refactor-arch.md` for workstream context.
-2. Read `plans/P001-design-contract.md` — focus on I-1, I-4, I-5, I-7.
-3. Read `code-smells-project/.claude/skills/refactor-arch/catalog-antipatterns.md` and `playbook-refactor.md` — S003 will cross-reference them.
-4. Read `plans/P001-S003-skill-md-e-refs.md` and execute its task list.
-5. Do not read S004+ — they remain not-authored.
+2. Read `plans/P001-design-contract.md` to load invariants — especially I-5 (Phase-3 validates via boot + smoke test) for the upcoming execution sessions.
+3. Read `plans/P001-S003-results.md` to confirm the skill is structurally complete.
+4. Skim the six skill files under `code-smells-project/.claude/skills/refactor-arch/` so the next session knows what gets invoked.
+5. Author `plans/P001-S004-exec-projeto-1.md` per cascading authorship, then execute it.
 
 ## Workspace root
 
@@ -19,5 +19,6 @@
 
 ## Last completed sessions
 
-- `P001-S001` closed `GO` — 31 findings; 22 catalog seeds, 16 playbook recipes.
-- `P001-S002` closed `GO` — catalog (10 entries) + playbook (8 recipes) authored; lint passed.
+- `P001-S001` closed `GO` — 31 findings; catalog and playbook seeds extracted.
+- `P001-S002` closed `GO` — catalog (10 entries) + playbook (8 recipes) authored.
+- `P001-S003` closed `GO` — SKILL.md + analise + template + guidelines authored; skill is executable.
