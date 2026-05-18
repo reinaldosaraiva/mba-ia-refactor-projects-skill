@@ -92,7 +92,7 @@ Full endpoint table is in `reports/audit-project-1.md` under `## Validation`.
 
 S004 evidence landed in a bootstrap commit on branch `main`; this results file was updated in a follow-up commit to record the hash.
 
-`Commit hash: <pending — filled by follow-up commit>`
+`Commit hash: 4abae1fd7597dbada9012cddca6a567682063b1d`
 
 ## Gate to S005
 
