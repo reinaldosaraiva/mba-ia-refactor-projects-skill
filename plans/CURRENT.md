@@ -1,21 +1,17 @@
 # CURRENT
 
 **Active master plan:** `plans/P001-skill-refactor-arch.md`
-**Active session:** none (S006 closed PASS; S007 not yet authored)
-**Status:** authorable — next session is S007 (final README.md per desafio.md A/B/C/D)
+**Active session:** `plans/P001-S007-readme-final.md`
+**Status:** authored, ready to execute
 **Lock:** none
 
 ## Resume instructions
 
 1. Read `plans/P001-skill-refactor-arch.md` for workstream context.
-2. Read `plans/P001-design-contract.md` — focus on I-3 (deliverables include README), I-10.
-3. Skim `plans/P001-S004-results.md`, `plans/P001-S005-results.md`, `plans/P001-S006-results.md` for evidence to summarise in README section C (Resultados).
-4. Author `plans/P001-S007-readme-final.md` covering:
-   - Section A: Análise Manual (from `plans/P001-S001-findings.md`).
-   - Section B: Construção da Skill (decisions, anti-patterns chosen, agnosticism proof, challenges).
-   - Section C: Resultados (3-project before/after, checklist, smoke evidence).
-   - Section D: Como Executar (prereqs, commands, validation steps).
-5. Do not read S008 — remains not-authored until S007 PASS.
+2. Read `plans/P001-design-contract.md` — focus on I-1, I-3, I-7, I-10 + acceptance criterion 4 (README A/B/C/D).
+3. Read `plans/P001-S007-readme-final.md` end-to-end — it is self-contained and lists every prereq read inline.
+4. Execute the tasks block in `P001-S007-readme-final.md` (single-pass authoring round: write workspace-root `README.md`, run grep verifications, write `P001-S007-results.md`, update INDEX/CURRENT, two-commit pattern).
+5. Do not author S008 in this session — cascading-authorship gate requires S007 to close GO first.
 
 ## Workspace root
 

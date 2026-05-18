@@ -18,7 +18,7 @@ Authoritative lifecycle table for the workstream. If `CURRENT.md` and a session 
 | S004 | Execute `/refactor-arch` on code-smells-project | done | PASS | 9 findings (3/2/2/2); refactor to MVC; 19/19 endpoints; 0 regressions; SQL-injection fix verified |
 | S005 | Execute `/refactor-arch` on ecommerce-api-legacy | done | PASS | first cross-stack exec; 8 findings (2/2/2/2); MVC refactor; 5/5 endpoints; agnosticism verified |
 | S006 | Execute `/refactor-arch` on task-manager-api | done | PASS | partially-organised Python/Flask; 8 findings (1/2/3/2); MVC refactor with improve-not-rewrite; 22/22 endpoints; cascade structurally fixed |
-| S007 | Final README.md (Análise Manual / Construção / Resultados / Como Executar) | authorable | — | depends on S006 PASS — now unblocked |
+| S007 | Final README.md (Análise Manual / Construção / Resultados / Como Executar) | authored | — | session file `plans/P001-S007-readme-final.md`; documentation round; verdict GO when README satisfies grep-c checks + 18-item checklist × 3 projects + 4 acceptance-criteria rows |
 | S008 | Acceptance checklist + push + delivery wrap | not authored | — | depends on S007 PASS |
 
 ## Cascading authorship rule
