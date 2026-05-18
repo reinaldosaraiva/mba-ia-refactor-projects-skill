@@ -96,7 +96,7 @@ These five **slugs are missing from v1 catalog**. They are the strongest signal 
 
 S005 evidence landed in a bootstrap commit on branch `main`; this results file was updated in a follow-up commit to record the hash.
 
-`Commit hash: <pending — filled by follow-up commit>`
+`Commit hash: d33fa8399d997cc067863ac5703326aebb0ec13e`
 
 ## Gate to S006
 
