@@ -1,17 +1,19 @@
 # CURRENT
 
 **Active master plan:** `plans/P001-skill-refactor-arch.md`
-**Active session:** none — S003 closed GO, S004 is authorable but not authored yet
-**Status:** between sessions
+**Active session:** `plans/P001-S004-exec-projeto-1.md`
+**Status:** authored, ready to execute
 **Lock:** none
 
 ## Resume instructions
 
 1. Read `plans/P001-skill-refactor-arch.md` for workstream context.
-2. Read `plans/P001-design-contract.md` to load invariants — especially I-5 (Phase-3 validates via boot + smoke test) for the upcoming execution sessions.
-3. Read `plans/P001-S003-results.md` to confirm the skill is structurally complete.
-4. Skim the six skill files under `code-smells-project/.claude/skills/refactor-arch/` so the next session knows what gets invoked.
-5. Author `plans/P001-S004-exec-projeto-1.md` per cascading authorship, then execute it.
+2. Read `plans/P001-design-contract.md` — focus on I-4, I-5, I-6, I-7, I-10.
+3. Read the six skill files under `code-smells-project/.claude/skills/refactor-arch/` so the runtime knows what it is executing.
+4. Read `plans/P001-S004-exec-projeto-1.md` and execute its task list **in two parts**:
+   - Part A: Phase 1 + Phase 2, ending with the verbatim halt prompt. Stop the turn.
+   - Part B (after explicit user `y`): Phase 3 + closeout.
+5. Do not read S005+ — they remain not-authored.
 
 ## Workspace root
 
