@@ -19,7 +19,7 @@ Authoritative lifecycle table for the workstream. If `CURRENT.md` and a session 
 | S005 | Execute `/refactor-arch` on ecommerce-api-legacy | done | PASS | first cross-stack exec; 8 findings (2/2/2/2); MVC refactor; 5/5 endpoints; agnosticism verified |
 | S006 | Execute `/refactor-arch` on task-manager-api | done | PASS | partially-organised Python/Flask; 8 findings (1/2/3/2); MVC refactor with improve-not-rewrite; 22/22 endpoints; cascade structurally fixed |
 | S007 | Final README.md (Análise Manual / Construção / Resultados / Como Executar) | done | GO | README 605 LOC; 4 sections × 1; 57 ticked boxes (19 itens × 3 projetos); 37 audit citations; 15 results citations; agnosticism `diff -rq` empty × 3 |
-| S008 | Acceptance checklist + push + delivery wrap | authorable | — | depends on S007 GO — now unblocked |
+| S008 | Acceptance checklist + push + delivery wrap | authored | — | session file `plans/P001-S008-acceptance-and-push.md`; delivery round; verdict PASS requires today's live smoke × 3 projects + public push with operator confirmation + workstream closure |
 
 ## Cascading authorship rule
 
