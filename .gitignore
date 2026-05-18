@@ -10,3 +10,5 @@ venv/
 # SQLite
 *.db
 instance/
+ecommerce-api-legacy/node_modules
+ecommerce-api-legacy/package-lock.json
