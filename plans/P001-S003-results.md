@@ -99,7 +99,7 @@ After S003 the operator can:
 
 S003 evidence landed in a bootstrap commit on branch `main`; this results file was updated in a follow-up commit to record the hash.
 
-`Commit hash: <pending — filled by follow-up commit>`
+`Commit hash: c2413134c5be0fc728577c464971c2f290c7816d`
 
 ## Gate to S004
 
