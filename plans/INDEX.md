@@ -13,7 +13,7 @@ Authoritative lifecycle table for the workstream. If `CURRENT.md` and a session 
 | ID | Title | Status | Verdict | Notes |
 |----|-------|--------|---------|-------|
 | S001 | Manual analysis of 3 legacy projects | done | GO | findings dossier in `plans/P001-S001-findings.md`; 31 findings, all 3 projects meet minimums |
-| S002 | Anti-pattern catalog + refactor playbook | authorable | — | S001 closed GO; ready to be authored next |
+| S002 | Anti-pattern catalog + refactor playbook | authored | — | session file `plans/P001-S002-catalog-e-playbook.md`; not yet executed |
 | S003 | SKILL.md + remaining reference files | not authored | — | depends on S002 GO |
 | S004 | Execute `/refactor-arch` on code-smells-project | not authored | — | depends on S003 GO |
 | S005 | Execute `/refactor-arch` on ecommerce-api-legacy | not authored | — | depends on S004 PASS |
