@@ -229,7 +229,7 @@ Final scoreboard:
 
 ## Evidence
 
-- Bootstrap commit hash (this closeout's first commit): `<recorded by hash commit below>`.
+- Bootstrap commit hash (this closeout's first commit): `03f1715b7ecc829d8058a1ad66ebe265bd605ded`.
 - Public-repo `pushed_at`: 2026-05-18T16:16:05Z (Phase B push).
 
 ## Out of scope (respected)
