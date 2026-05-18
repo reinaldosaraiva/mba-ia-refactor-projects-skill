@@ -63,7 +63,7 @@ Tables in both files (`### Catalog↔playbook coverage matrix` and `### Recipe �
 
 S002 evidence landed in a bootstrap commit on branch `main`; this results file was updated in a follow-up commit to record the hash (same two-commit pattern as S001 to avoid the self-reference paradox).
 
-`Commit hash: <pending — filled by follow-up commit>`
+`Commit hash: 729ad65567de7e4bc687e952593c3f5f08c7bd12`
 
 ## Gate to S003
 
