@@ -52,7 +52,14 @@ The skill must succeed in **all three** projects to be considered agnostic of te
 
 ## Cross-references
 
-- Brief: `desafio.md` (root of workspace) and `README.md` (base-repo copy of the same brief).
+- Brief: `desafio.md` (root of workspace) and `README.md` (base-repo copy of the same brief — now replaced by the final delivery README authored in S007).
 - Invariants: `plans/P001-design-contract.md`.
 - Lifecycle: `plans/INDEX.md`.
 - Active pointer: `plans/CURRENT.md`.
+
+## Workstream closed
+
+- **Closed at:** 2026-05-18 (S008 PASS).
+- **Public delivery:** https://github.com/reinaldosaraiva/mba-ia-refactor-projects-skill (visibility: public, default_branch: main, first push 2026-05-18T16:16:05Z).
+- **Final scoreboard:** 8 sessions (4 GO + 4 PASS); 25 findings across `reports/audit-project-{1,2,3}.md`; 36 endpoint outcomes verified live on close day; 12/12 acceptance-criteria cells ✓; skill `.claude/skills/refactor-arch/` bit-identical across the 3 projects (`diff -rq` empty in every direction).
+- **Follow-up workstreams (proposed, not part of P001):** P002 (catalog v1.1) and P003 (real auth: JWT + bcrypt). See `plans/INDEX.md` §Workstream closure.

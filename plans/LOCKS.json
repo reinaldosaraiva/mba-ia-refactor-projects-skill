@@ -1,5 +1,5 @@
 {
   "locks": [],
   "schema_version": 1,
-  "notes": "No live locks. S006 lock cleared on closeout (2026-05-18)."
+  "notes": "No live locks. P001 workstream closed 2026-05-18; S008 lock cleared on closeout."
 }
