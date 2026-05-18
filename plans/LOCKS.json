@@ -1,5 +1,5 @@
 {
   "locks": [],
   "schema_version": 1,
-  "notes": "No live locks. S005 lock cleared on closeout."
+  "notes": "No live locks. S006 lock cleared on closeout (2026-05-18)."
 }

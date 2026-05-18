@@ -1,19 +1,21 @@
 # CURRENT
 
 **Active master plan:** `plans/P001-skill-refactor-arch.md`
-**Active session:** `plans/P001-S006-exec-projeto-3.md`
-**Status:** authored, ready to execute
+**Active session:** none (S006 closed PASS; S007 not yet authored)
+**Status:** authorable — next session is S007 (final README.md per desafio.md A/B/C/D)
 **Lock:** none
 
 ## Resume instructions
 
 1. Read `plans/P001-skill-refactor-arch.md` for workstream context.
-2. Read `plans/P001-design-contract.md` — focus on I-1, I-5, I-7 (improve-not-rewrite for partially-organised projects), I-10.
-3. Skim `plans/P001-S004-results.md` and `plans/P001-S005-results.md` for the execution pattern.
-4. Read `plans/P001-S006-exec-projeto-3.md` and execute in two parts:
-   - Part A: skill copy + Phase 1 + Phase 2, ending on the verbatim halt prompt.
-   - Part B (after explicit user `y`): Phase 3 (move existing folders under `src/`, add missing layers, refactor) + validation + closeout.
-5. Do not read S007+ — they remain not-authored.
+2. Read `plans/P001-design-contract.md` — focus on I-3 (deliverables include README), I-10.
+3. Skim `plans/P001-S004-results.md`, `plans/P001-S005-results.md`, `plans/P001-S006-results.md` for evidence to summarise in README section C (Resultados).
+4. Author `plans/P001-S007-readme-final.md` covering:
+   - Section A: Análise Manual (from `plans/P001-S001-findings.md`).
+   - Section B: Construção da Skill (decisions, anti-patterns chosen, agnosticism proof, challenges).
+   - Section C: Resultados (3-project before/after, checklist, smoke evidence).
+   - Section D: Como Executar (prereqs, commands, validation steps).
+5. Do not read S008 — remains not-authored until S007 PASS.
 
 ## Workspace root
 
@@ -26,3 +28,4 @@
 - `P001-S003` GO — SKILL.md + 3 reference files; skill executable.
 - `P001-S004` PASS — project 1 (Python/Flask flat); 9 findings, 19/19 endpoints.
 - `P001-S005` PASS — project 2 (Node/Express flat); 8 findings, 5/5 endpoints; cross-stack agnosticism verified.
+- `P001-S006` PASS — project 3 (Python/Flask partially-organised); 8 findings, 22/22 endpoints; improve-not-rewrite proven; full Python sweep complete.
