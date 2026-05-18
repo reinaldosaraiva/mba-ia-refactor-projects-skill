@@ -48,9 +48,9 @@ Manual reading of 14 source files across the 3 target projects produced a ground
 
 ## Commit
 
-Commit landed as bootstrap-and-evidence single commit on branch `main`.
+S001 evidence landed in a bootstrap commit on branch `main`. The hash below points to that bootstrap commit; this results file was updated in a follow-up commit to record it.
 
-`Commit hash: 70a6a4ed023b284924fb95510d577212e13c5dee`
+`Commit hash: 84802afd76a6d6ebf5a1daedeb5074ef53cde167`
 
 ## Gate to S002
 
