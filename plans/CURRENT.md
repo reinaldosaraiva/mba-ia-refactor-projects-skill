@@ -1,22 +1,23 @@
 # CURRENT
 
 **Active master plan:** `plans/P001-skill-refactor-arch.md`
-**Active session:** `plans/P001-S002-catalog-e-playbook.md`
-**Status:** authored, ready to execute
+**Active session:** none — S002 closed GO, S003 is authorable but not authored yet
+**Status:** between sessions
 **Lock:** none
 
 ## Resume instructions
 
 1. Read `plans/P001-skill-refactor-arch.md` to load workstream context.
-2. Read `plans/P001-design-contract.md` — focus on I-1, I-8, I-9.
-3. Read `plans/P001-S001-results.md` and the bottom of `plans/P001-S001-findings.md` (catalog and playbook seed lists) to inherit the ground truth.
-4. Read `plans/P001-S002-catalog-e-playbook.md` and execute its task list.
-5. Do not read S003+ — they remain not-authored.
+2. Read `plans/P001-design-contract.md` to load invariants.
+3. Read `plans/P001-S002-results.md` and the two skill reference files under `code-smells-project/.claude/skills/refactor-arch/` to inherit the knowledge base.
+4. Author `plans/P001-S003-skill-md-e-refs.md` per the cascading-authorship rule, then execute it.
+5. Do not skip ahead to S004+; those remain not-authored until S003 closes GO.
 
 ## Workspace root
 
 `/Users/reinaldosaraiva/workspace/projects/mba-ia-refactor-projects-skill/`
 
-## Last completed session
+## Last completed sessions
 
-- `P001-S001` closed `GO` — findings dossier produced, catalog/playbook seeds ready.
+- `P001-S001` closed `GO` — 31 findings; 22 catalog seeds, 16 playbook recipes.
+- `P001-S002` closed `GO` — catalog (10 entries) + playbook (8 recipes) authored; lint passed.
